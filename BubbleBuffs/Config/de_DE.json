@@ -1,0 +1,61 @@
+{
+  "buffsetup": "<size=75%>Wzmocnienia</size>",
+  "casting": "rzucanie",
+  "available": "dostępne",
+  "available.atwill": "na życzenie",
+  "showhidden": "Pokaż ukryte",
+  "showshort": "Wyświetl rundę/poziom",
+  "showreq": "Wyświetl wymagane",
+  "showNOTreq": "Wyświetl niewymagane",
+  "sort.name": "Sortuj według nazwy",
+  "group.normal": "Standardowe",
+  "group.important": "Ważne",
+  "group.short": "Krótkie",
+  "cat.spells": "Zaklęcia",
+  "cat.Abilities": "Zdolności",
+  "cat.Items": "Przedmioty",
+  "cat.Consumables": "Przedmioty użytkowe",
+  "group.normal.tooltip.header": "Wzmocnij Standardowymi!",
+  "group.normal.tooltip.desc": "Próba rzucenia zaklęć ustawionych w oknie wzmocnień (Standardowe)",
+  "group.important.tooltip.header": "Wzmocnij Ważnymi!",
+  "group.important.tooltip.desc": "Próba rzucenia zaklęć ustawionych w oknie wzmocnień (Ważne)",
+  "group.short.tooltip.header": "Wzmocnij Krótkimi!",
+  "group.short.tooltip.desc": "Próba rzucenia zaklęć ustawionych w oknie wzmocnień (Krótkie)",
+  "showmap.tooltip.header": "Wyświetl mapę wysp",
+  "showmap.tooltip.desc": "Wyświetl mapę wysp, aby wybrać kolejny punkt swojej przygody.",
+
+  "group.normal.log": "Wzmocnione Standardowymi!",
+  "group.important.log": "Wzmocnione Ważnymi!",
+  "group.short.log": "Wzmocnione Krótkimi!",
+  "log.skipped": "Pominięte",
+  "log.applied": "Zastosowane",
+
+  "hideability": "Ukrycie zdolności",
+
+  "tooltip.results": "Rezultaty",
+  "tooltip.applied": "Zastosowane Wzmocnienia",
+  "tooltip.skipped": "Pominięte Wzmocnienia",
+  "tooltip.failed": "Nieudane Wzmocnienia",
+  "noslot": "brak wolnego miejsca na zaklęcie",
+  "noarcanist": "brak dostępnych punktów Rezerwy Magicznej Arkanisty",
+
+  "warn.arcanepool": " <i>Zasób Rezerwy Magicznej Arkanisty <b>nie jest</b> monitorowany</i>",
+
+  "limitcasts": "Ograniczenie rzucania do",
+  "bancasts": "Zakaz rzucania",
+  "use.powerfulchange": "Użyj Potężnej Przemiany",
+  "use.sharetransmutation": "Zezwalaj na Współdzieloną Transmutację",
+  "use.reservoirclbuff": "Użyj poziomu Rezerwy Magicznej rzucającego dla Wzmocnienia",
+  "use.azatazippymagic": "Użyj Dynamicznej Magii Azaty jako drugorzędne wzmocnienie",
+  "nolimit": "bez limitu",
+
+  "remove-all": "Usuń ze wszystkich",
+  "add-all": "Dodaj do wszystkich",
+
+  "settings": "Ustawienia",
+  "settings-toggle": "Przełącz panel ustawień BubbleBuffs",
+  "setting-verbose": "Używanie pełnej animacji rzucania",
+  "setting-in-combat": "Zezwól na rzucanie wzmocnień podczas walki",
+  "setting-overwritebuff": "Ignorowanie istniejących wzmocnień"
+
+}

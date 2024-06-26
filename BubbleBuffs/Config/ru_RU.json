@@ -1,0 +1,55 @@
+﻿{
+  "buffsetup": "Бафы",
+  "casting": "каст",
+  "available": "доступно",
+  "available.atwill": "по желанию",
+
+
+
+
+
+
+
+  "showhidden": "Показать скрытые",
+  "showshort": "Показывать недолгие",
+  "showreq": "Показывать выбранные",
+  "showNOTreq": "Показывать НЕ выбранные",
+  "sort.name": "Сортировать по названию",
+  "group.normal": "Нормальные",
+  "group.important": "Важные",
+  "group.short": "Короткие",
+  "cat.spells": "Заклинания",
+  "cat.Abilities": "Способности",
+  "cat.Items": "Вещи",
+  "cat.Consumables": "Используемые",
+  "group.normal.tooltip.header": "Нормальные бафы",
+  "group.normal.tooltip.desc": "Попробовать бафнуть группой (Нормальные)",
+  "group.important.tooltip.header": "Важные бафы",
+  "group.important.tooltip.desc": "Попробовать бафнуть группой (Важные)",
+  "group.short.tooltip.header": "Короткие бафы",
+  "group.short.tooltip.desc": "Попробовать бафнуть группой (Короткие)",
+
+  "group.normal.log": "Нормальные бафы",
+  "group.important.log": "Важные бафы",
+  "group.short.log": "Короткие бафы",
+  "log.skipped": "Пропущено",
+  "log.applied": "Применено",
+
+  "hideability": "Скрыть способность",
+
+  "tooltip.results": "Итоги",
+  "tooltip.applied": "Применено бафов",
+  "tooltip.skipped": "Пропущено бафов",
+  "tooltip.failed": "Не удалось бафнуть",
+  "noslot": "нет свободного слота заклинания",
+
+  "warn.arcanepool": "  <i>Резерв Арканиста <b>НЕ</b> отслеживается</i>",
+
+  "limitcasts": "Макс. бафов",
+  "bancasts": "Не бафать",
+  "use.powerfulchange": "Использовать Мощный Заряд",
+  "use.sharetransmutation": "Разрешить Общую Трансмутацию",
+  "use.reservoirclbuff": "Использовать бафф уровня кастера в резервуаре арканиста",
+  "use.azatazippymagic": "Управление дополнительным усилением магии Azata Zippy",
+  "nolimit": "без ограничений"
+}
