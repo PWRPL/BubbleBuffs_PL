@@ -5,8 +5,8 @@
   "available.atwill": "na życzenie",
   "showhidden": "Pokaż ukryte",
   "showshort": "Wyświetl rundę/poziom",
-  "showreq": "Wyświetl wymagane",
-  "showNOTreq": "Wyświetl niewymagane",
+  "showreq": "Wyświetl ustawione",
+  "showNOTreq": "Wyświetl nieustawione",
   "sort.name": "Sortuj według nazwy",
   "group.normal": "Standardowe",
   "group.important": "Ważne",
@@ -24,9 +24,9 @@
   "showmap.tooltip.header": "Wyświetl mapę wysp",
   "showmap.tooltip.desc": "Wyświetl mapę wysp, aby wybrać kolejny punkt swojej przygody.",
 
-  "group.normal.log": "Wzmocnione Standardowymi!",
-  "group.important.log": "Wzmocnione Ważnymi!",
-  "group.short.log": "Wzmocnione Krótkimi!",
+  "group.normal.log": "Wzmocnienie Standardowymi!",
+  "group.important.log": "Wzmocnienie Ważnymi!",
+  "group.short.log": "Wzmocnienie Krótkimi!",
   "log.skipped": "Pominięte",
   "log.applied": "Zastosowane",
 
