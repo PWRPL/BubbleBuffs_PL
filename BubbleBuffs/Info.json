@@ -1,14 +1,15 @@
 ﻿{
-    "AssemblyName": "BubbleBuffs.dll",
-    "Author": "bubbles",
-    "DisplayName": "Bubble Buffs PL",
-    "EntryMethod": "BubbleBuffs.Main.Load",
-    "GameVersion": "1.4.0",
-    "HomePage": "https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/195",
-    "Id": "BubbleBuffs_PL",
-    "ManagerVersion": "0.23.0",
-    "Repository": "https://raw.githubusercontent.com/factubsio/BubbleBuffs/master/Repository.json",
-    "Requirements": [],
-    "LoadAfter": ["EnhancedInventory"],
-    "Version": "5.2.2"
+  "AssemblyName": "BubbleBuffs.dll",
+  "Author": "bubbles",
+  "DisplayName": "Bubble Buffs PL",
+  "EntryMethod": "BubbleBuffs.Main.Load",
+  "GameVersion": "1.4.0",
+  "HomePage": null,
+  "HomePage": "https://github.com/PWRPL/BubbleBuffs_PL/releases",
+  "Id": "BubbleBuffs_PL",
+  "ManagerVersion": "0.23.0",
+  "Repository": "https://raw.githubusercontent.com/PWRPL/BubbleBuffs_PL/master/Repository.json",
+  "Requirements": [],
+  "LoadAfter": [ "EnhancedInventory" ],
+  "Version": "5.2.2"
 }
